@@ -6,7 +6,7 @@
 | --------: | --------------------------------- |
 |      DISC | **_D/CS_**                        |
 |      MBTI | **_INTJ_**                        |
-| Enneagram | **_The Wise Person (5)_**         |
+| Enneagram | **_Investigator/Thinker (5) - Loyal Skeptic (6)_**         |
 |     Kolbe | **_Strategic Planner (7,6,5,2)_** |
 
 ## How I Work
