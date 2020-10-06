@@ -1,11 +1,11 @@
 # Working Style
 
-## Assessments
+## Personality
 
 |           |                                   |
 | --------: | --------------------------------- |
 |      DISC | **_D/CS_**                        |
-|      MBTI | **_INTJ_**                        |
+|      MBTI | **_[The Turbulent Architect (INTJ-T)](https://www.16personalities.com/intj-personality)_**                        |
 | Enneagram | **_Investigator/Thinker (5) - Loyal Skeptic (6)_**         |
 |     Kolbe | **_Strategic Planner (7,6,5,2)_** |
 
