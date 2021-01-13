@@ -4,9 +4,9 @@
 
 |           |                                   |
 | --------: | --------------------------------- |
-|      DISC | **_D/CS_**                        |
+|      DISC | **_[D/CS](https://www.indabaglobal.com/disc-patterns-explained-dsc/)_**                        |
 |      MBTI | **_[The Turbulent Architect (INTJ-T)](https://www.16personalities.com/intj-personality)_**                        |
-| Enneagram | **_Investigator/Thinker (5) - Loyal Skeptic (6)_**         |
+| Enneagram | **_[Investigator/Thinker (5) - Loyal Skeptic (6) (5w6)](https://personalityjunkie.com/02/enneagram-type-5-5w4-5w6-intp-intj-infj-infp/)_**         |
 |     Kolbe | **_Strategic Planner (7,6,5,2)_** |
 
 ## How I Work
