@@ -58,7 +58,7 @@ I believe that I am only successful in my role if you are successful in yours. I
 - I get really frustrated if I end up chasing things for follow-up. If I assign a task or request somethng, please make sure to close the loop on it appropriately. This, too, goes both ways.
 - I appreciate organization, but when things get busy, this is an area that can slip through the cracks. It is important. Please help us collectively get better at staying organized, systematized, and well-documented.
 - Ask questions. If a quick volley back and forth can save you a lot of work, no matter how busy things seem, please utilize me. I will do the same.
-- I expect that we will agree on some things and also disagree at times. You will have similar experiences with others in our organization. In all cases, I expect that such disagreement and discussion will always be handled with respect and assume positive intent. These are opportunities to learn from one another and from the experience.
+- I expect that we will agree on some things and also disagree at times. You will have similar experiences with others in our organization. In all cases, I expect that such disagreement and discussion will always be handled with respect and assumption of positive intent. These are opportunities to learn from one another and from the experience.
 
 ## What Others Have Said
 
