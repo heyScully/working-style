@@ -2,16 +2,17 @@
 
 ## Personality
 
-|           |                                   |
 | --------: | --------------------------------- |
 |      DISC | **_[D/CS](https://www.indabaglobal.com/disc-patterns-explained-dsc/)_**                        |
 |      MBTI | **_[The Turbulent Architect (INTJ-T)](https://www.16personalities.com/intj-personality)_**                        |
 | Enneagram | **_[Investigator/Thinker (5) - Loyal Skeptic (6) (5w6)](https://personalityjunkie.com/02/enneagram-type-5-5w4-5w6-intp-intj-infj-infp/)_**         |
 |     Kolbe | **_Strategic Planner (7,6,5,2)_** |
 
+_As one of the least common types in each assessment, I frequently find myself able to contribute unique perspective as a thought partner and team leader._
+
 ## How I Work
 
-I am a post-processor, which means I work best when I take in a lot of information, spend some time mulling it over, and then come back with a plan or position. I am not always good on the spot, and if you provide new information, I'll usually tell you what it makes me think about rather than sharing an opinion right away.
+I am a post-processor, which means I work best when I take in a lot of information, spend some time mulling it over, and then come back with a plan or position. I am not usually quick-to-conclusion on the spot, and if you provide new information, I'll usually tell you what it makes me think about rather than sharing an opinion right away.
 
 I'm a visual thinker, and I love a good whiteboarding session! Sometimes I'll hop up with a marker just to mindmap live in a meeting. With a diverse and broad base of experiences, I will naturally try to organize strategic information, setting priorities while thinking through complex dependencies. I play out several steps ahead in my mind and _corner-case_ everything.
 
@@ -23,7 +24,7 @@ I am a systems thinker. I favor lasting and repeatable ways to coordinate and sc
 
 I actively research and question, so that I can be precise. I do not readily answer off the top of my head without first understanding the specifics of a situation. Occasionally, I'll act on a _gut feel_ when something feels especially familiar, but I tend to look for specific reason and logic to inform big decisions.
 
-Sometimes, I call my self a "half idea" guy, because even when an idea feels whole, it often happens that someone will contribute more that makes it even better. When I go in thinking I have half the idea, it helps me search for the person with the other half. I am fallible, and I am often flat out wrong. I rarely have any pride of authorship. I welcome input and different perspectives. Challenge me. I don't take it personally. I want the best outcome, not _my_ outcome.
+Sometimes, I call my self a "half idea" guy, because even when an idea feels whole, it often happens that someone will contribute more that makes it even better. When I go in thinking I have half the idea, it helps me search for the person with the other half. I am fallible, and I am often flat out wrong. I rarely hold any pride of authorship. I welcome input and different perspectives. Challenge me. I don't take it personally. I want the best outcome, not _my_ outcome.
 
 As an introvert, I can feel drained after a long day, trip, or working session. I will _ghost_ out of parties. I need time to recharge my mental batteries. This also tends to make the mornings a much better time to connect with me about big ideas and open-ended discussions.
 
@@ -42,7 +43,7 @@ I believe that I am only successful in my role if you are successful in yours. I
 ## Communication and Meetings
 
 - If you need to reach me quickly, text/SMS is what I will see first. Slack second. Email third. You can message me any time. I turn off notifications in off-hours. If you urgently need me off hours, and I haven't responded to messages, call me on my mobile. My phone will ring for calls 24/7.
-- I sometimes work at odd hours, and ideas can strike without a schedule. If I message you off hours, it's usually because I didn't want to lose a thought, but I do not expect a quick response. If something urgent comes up, I'll probably try to reach you by other means when appropriate.
+- I sometimes work at odd hours, and ideas can strike without a schedule. If I message you off hours, it's usually because I didn't want to lose a thought, but I do not expect a quick response. These days, I've gotten pretty good at using scheduled messages. If something urgent comes up, I'll probably try to reach you by other means when appropriate.
 - I keep my calendar up to date. I'll always make time for my direct reports, so if you need me and can't find an opening, ping me, and I'll make it work.
 - Please be on-time, prepared, and present for meetings (whether with me or with others). I really try to do the same. Things come up, so if you're going to be late, just give a heads up. If you think I'm not fully present, help me by calling me on it. If there's too much going on to focus in a particular meeting, let's reschedule rather than give it less than full attention.
 - Right-size your meetings. Don't schedule 30 minutes for a topic or a large group that will require more time to be productive. Similarly, don't book an hour when 20 minutes will do. Bonus points for wrapping up meetings early. Please avoid running long. The best thing we can do to respect everyone's time when it comes to meetings is to wrap up on time or even early.
@@ -54,8 +55,8 @@ I believe that I am only successful in my role if you are successful in yours. I
 - Part of your role is to do your job, and part of your job is to continually improve the way we perform your function overall. Recognize that what may have been perfect for us six months ago may no longer work. Be the first to raise your hand to call this out rather than the last one hanging on to outdated ways of operating.
 - If you take time off, I'll expect that you have your responsibilities and obligations covered ahead of time. Let me know how I can help to cover and be sure your colleagues know who will be accountable for things that may come up.
 - Please keep your calendar up to date, blocking times when you will be unavailable or in transit. I make an effort to make sure mine is up-to-date as well.
-- Be realistic with your commitments and then meet them. I try to spot potential risks early and mitigate them. I will be depending on you to meet your obligations for things I may commit to elsewhere. Push back if you feel I am _not_ being realistic, and I will do the same to you.
-- I get really frustrated if I end up chasing things for follow-up. If I assign a task or request somethng, please make sure to close the loop on it appropriately. This, too, goes both ways.
+- Be realistic with your commitments, and then meet them. I try to spot potential risks early and mitigate them. I will be depending on you to meet your obligations for things I may commit to elsewhere. Push back if you feel I am _not_ being realistic, and I will do the same to you.
+- I get really frustrated if I end up chasing things for follow-up. If I assign a task or request something, please make sure to close the loop on it appropriately. This, too, goes both ways.
 - I appreciate organization, but when things get busy, this is an area that can slip through the cracks. It is important. Please help us collectively get better at staying organized, systematized, and well-documented.
 - Ask questions. If a quick volley back and forth can save you a lot of work, no matter how busy things seem, please utilize me. I will do the same.
 - I expect that we will agree on some things and also disagree at times. You will have similar experiences with others in our organization. In all cases, I expect that such disagreement and discussion will always be handled with respect and assumption of positive intent. These are opportunities to learn from one another and from the experience.
