@@ -30,7 +30,7 @@ As an introvert, I can feel drained after a long day, trip, or working session. 
 
 ## My Management Style
 
-I am not a micro-manager, but I want to know that we are aligned on the funtamentals. I expect that you'll be self-directed for the most part. I believe in communicating objectives and empowering my team to do the jobs they've been hired to do. I will typically share an expected outcome, but rely on you for the specifics of getting there. Along the way, I will attempt to clear obstacles as they come up and make sure we stay aligned.
+I am not a micro-manager, but I want to know that we are aligned on the fundamentals. I expect that you'll be self-directed for the most part. I believe in communicating objectives and empowering my team to do the jobs they've been hired to do. I will typically share an expected outcome, but rely on you for the specifics of getting there. Along the way, I will attempt to clear obstacles as they come up and make sure we stay aligned.
 
 I'll rarely ask you to do something I wouldn't do myself or that I don't take the time to understand first. If you think I'm asking something unreasonable or that I haven't fully thought through, let's talk. I'll defer to you and other subject matter experts on areas of specialization, but I'll still push back if it feels like we may be missing something. When I don't know something, I'll be open about that and the fact that we may be learning it together.
 
